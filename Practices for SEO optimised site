@@ -1,0 +1,19 @@
+Start with a well-structured HTML document that follows semantic markup guidelines. Use proper headings (H1, H2, H3, etc.) to structure your content, and use HTML5 tags like <article> and <section> to organize it into meaningful chunks.
+
+Ensure that your HTML is clean and valid by running it through an HTML validator tool. This can help to identify any errors or inconsistencies that may negatively impact your SEO efforts.
+
+Use descriptive and relevant page titles that accurately reflect the content on the page. This is one of the most important on-page SEO factors, as it helps search engines understand what your page is about.
+
+Include meta descriptions for each page, providing a concise summary of the page content. Make sure to include relevant keywords in your meta descriptions to improve their visibility in search engine results.
+
+Use descriptive alt tags for all images on your website. This not only helps visually impaired users understand the content of your website but also provides additional context for search engines.
+
+Make sure your website is mobile-friendly and responsive, as this is a key ranking factor for search engines.
+
+Use canonical tags to avoid duplicate content issues, ensuring that search engines can properly index and rank your pages.
+
+Include internal links to other relevant pages on your website, as this helps search engines understand the hierarchy and structure of your site.
+
+Ensure that your website loads quickly, as page speed is another important ranking factor. Optimize your images, use a content delivery network, and minify your HTML, CSS, and JavaScript files to reduce page load times.
+
+Finally, regularly update your website with fresh, relevant, and high-quality content to improve your search engine rankings and keep your audience engaged.
